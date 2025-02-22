@@ -48,7 +48,7 @@ To compile and run the Kilo text editor, you need a C compiler and a terminal en
 
 2. Navigate to the project directory:
     ```bash
-
+    cd urdirectoryname
 
 3. Compile the project using GCC or any C compiler:
     ```bash
